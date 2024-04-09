@@ -2,7 +2,8 @@ Question1:
 
 I think it is easy to use. On the one hand, only through changing the data, users can achieve the goal. On the other hand, a major pain point experienced during this deployment was the rigidity in modifying the game's parameters and the user interface. Adjusting the multiplier or incorporating complex decision trees required navigating through Python code and HTML templates, which can be daunting for researchers with limited coding expertise. Moreover, real-time feedback to participants was limited by the platform's design, restricting the ability to study dynamic decision-making processes effectively. Discussions in experimental economics emphasize the need for software that is flexible, user-friendly, and capable of providing real-time feedback and analysis. Literature highlights the importance of adaptability in experimental design, where researchers can tweak games or surveys without extensive coding knowledge (Camerer, 2003; Fischbacher, 2007).
 
-Thus, the three solutions offered by me are to make the Otree hub friendly. First, the proposed platform will feature a drag-and-drop interface for creating and modifying games or surveys. This way will help the users who have little or no experience in coding. Second, add the real data. This approach can adjust experimental parameters and make it more efficient. Lastly, an enhanced participant engagement tool can make data more reliable and improve quality.
+Thus, the three solutions offered by me are to make the Otree hub friendly. First, the proposed platform will feature a drag-and-drop interface for creating and modifying games or surveys. This way will help the users who have little or no experience in coding. Second, add the real data. This approach can adjust experimental parameters and make it more efficient. Lastly, an enhanced participant engagement tool can make data more reliable and improve quality.![image (2)](https://github.com/Rising-Stars-by-Sunshine/CS206-BaoguanyanKang/assets/165135612/746b2583-0619-4547-84fb-983611399816)
+
 
 
 
@@ -12,7 +13,8 @@ Camerer, C. F. (2003). Behavioral game theory: Experiments in strategic interact
 
 Question2:
 
-MARL framework. In my opinion, it is difficult to simulate the complexity of the environment. To some extent, the oversimplified environment leads to the rigidity of the algorithm part, making the learning mechanism lack scalability and targeted interaction. For example, the prisoner's dilemma, the constraints of the agent environment, and the rigidity of the algorithm make data changing easy.
+MARL framework. In my opinion, it is difficult to simulate the complexity of the environment. To some extent, the oversimplified environment leads to the rigidity of the algorithm part, making the learning mechanism lack scalability and targeted interaction. For example, the prisoner's dilemma, the constraints of the agent environment, and the rigidity of the algorithm make data changing easy.![image (1)](https://github.com/Rising-Stars-by-Sunshine/CS206-BaoguanyanKang/assets/165135612/cd339fd1-c16d-4aa5-b809-f6b60ce937ce)
+
 
  
 
@@ -34,7 +36,8 @@ Application scenario: Application scenarios include healthcare for patient data 
 
 4.While the scenarios presented are relevant, they might not fully capture the potential of federated learning in emerging technologies like blockchain for secure data sharing, generative AI for creating synthetic but realistic data, or quantum computing for processing data at unprecedented speeds. Exploring these technologies could uncover new challenges and opportunities for federated learning, particularly in enhancing security and computational efficiency.
 
-5. ![image](https://github.com/Rising-Stars-by-Sunshine/CS206-BaoguanyanKang/assets/165135612/9d3c3160-8b5b-4eb1-a219-9c045ce3d9f7)
+5. ![image](https://github.com/Rising-Stars-by-Sunshine/CS206-BaoguanyanKang/assets/165135612/cff016b6-8e9c-4543-a0ac-848aa7f28562)
+
 
 
 
