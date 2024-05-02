@@ -10,6 +10,12 @@ I am interested in,
 1. Machine learning
 2. Applied math
 3. Finance
+
 I am also skillful,
 1. python
 2. Java
+
+I am also a crazy sports fan:
+I play football and I used to be a member of varsity team⚽，I also watch Formula 1🏎
+My favorite football club is Barca, BVB and Shanghai Port.
+For Formula, my favorite driver will be Sai, from Ferrari.
