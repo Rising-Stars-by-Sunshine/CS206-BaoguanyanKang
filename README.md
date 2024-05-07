@@ -25,3 +25,5 @@ This repository compiles my solutions to Problem Set 1 for the COMSCI/ECON 206 C
 #### [📌 CSEcon](https://github.com/Rising-Stars-by-Sunshine/CS206_BaoguanyanKang/tree/e12ba12306f63239bc097f739ce866d67902b922/CSEcon)
 
 #### [📌 Advance_CSEcon](https://github.com/Rising-Stars-by-Sunshine/CS206-BaoguanyanKang/tree/759b3b4d3d2c844706b709b8364732ea7ee9372c/Advance_CSEcon)
+
+#### [📌 Proposal[New]](https://github.com/Rising-Stars-by-Sunshine/CS206-BaoguanyanKang/tree/93d696b23ba099b31470c5094a064f951631a3cc/Proposal%5BNew%5D)
