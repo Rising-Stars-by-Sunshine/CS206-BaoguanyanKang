@@ -22,6 +22,6 @@ Hi everyone!
 This repository compiles my solutions to Problem Set 1 for the COMSCI/ECON 206 Computational Microeconomics course instructed by Professor Luyao Zhang. Each folder and file showcases my approach to the course challenges, highlighting my analytical skills and grasp of the subject matter.
 
 ## 📎 Table of Contents
-#### [📌 CSEcon](https://github.com/Rising-Stars-by-Sunshine/CSECON206_BaoguanyanKang/tree/main/CSEcon/README.md)
+#### [📌 CSEcon]([https://github.com/Rising-Stars-by-Sunshine/CSECON206_BaoguanyanKang/tree/main/CSEcon/README.md](https://github.com/Rising-Stars-by-Sunshine/CS206-BaoguanyanKang/tree/e12ba12306f63239bc097f739ce866d67902b922/CSEcon))
 
 #### [📌 Advance_CSEcon](https://github.com/Rising-Stars-by-Sunshine/CSECON206_BaoguanyanKang/tree/main/Advance_CSECON/README.md)
