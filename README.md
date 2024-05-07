@@ -1,21 +1,27 @@
 # CS206-BaoguanyanKang
 Hi everyone! 
 ![微信图片_20240502173643](https://github.com/Rising-Stars-by-Sunshine/CS206-BaoguanyanKang/assets/165135612/66453adc-3953-4223-89dd-50d99c7b0e14)
-Here is my favourite anime character, so I will directly use it to be my profile photo.
 
-My name is Baoguanyan Kang from Xi’an, a sophomore majoring in Applied mathematics. 
-I love sports, especially football, and I am also the president of DKU billiards club. I am curious about the how to combine the economic with computational science, and I also want to learn 
-For academic:
-I am interested in,
-1. Machine learning
-2. Applied math
-3. Finance
 
-I am also skillful,
-1. python
-2. Java
+#### 👋 Hello there! Welcome to my corner of GitHub! I'm Baoguanyan Kang, a major in Applied Math but interested in financial.
 
-I am also a crazy sports fan:
-I play football and I used to be a member of varsity team⚽，I also watch Formula 1🏎
-My favorite football club is Barca, BVB and Shanghai Port.
-For Formula, my favorite driver will be Sai, from Ferrari.
+#### 🌍 I am exploring the knowledge about Chinese market as my future research. In addition, I am also the president of DKU billiards Club. And I am a big fan of sports, such as football, basketball and formula 1.
+
+
+## 💡 I am interested in
+- History
+- Machine Learning
+- Environment problem
+
+## 🪄 My Skillset
+- Python
+- Java
+- Machine Learning
+
+## 📚 Repository Structure
+This repository compiles my solutions to Problem Set 1 for the COMSCI/ECON 206 Computational Microeconomics course instructed by Professor Luyao Zhang. Each folder and file showcases my approach to the course challenges, highlighting my analytical skills and grasp of the subject matter.
+
+## 📎 Table of Contents
+#### [📌 CSEcon](https://github.com/Rising-Stars-by-Sunshine/CSECON206_BaoguanyanKang/tree/main/CSEcon/README.md)
+
+#### [📌 Advance_CSEcon](https://github.com/Rising-Stars-by-Sunshine/CSECON206_BaoguanyanKang/tree/main/Advance_CSECON/README.md)
